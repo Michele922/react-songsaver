@@ -1,0 +1,24 @@
+.song-playlist-container {
+  background-color: #f3f3f3;
+  min-height: 50vh;
+  padding: 50px;
+}
+
+.song-playlist-container > h1 {
+  color: rgb(75, 73, 73);
+}
+
+h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: rgb(75, 73, 73);
+}
+
+label {
+  padding-right: 20px;
+}
+
+select {
+  margin-right: 20px;
+  width: 150px;
+}
