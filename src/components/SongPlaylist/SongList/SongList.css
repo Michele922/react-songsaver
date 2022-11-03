@@ -1,0 +1,8 @@
+#song-list-table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#song-list-table > thead > tr > th {
+  text-align: start;
+}
