@@ -1,0 +1,56 @@
+.form-input {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  border-radius: 3px;
+  border-color: transparent;
+  cursor: pointer;
+}
+
+.form-input > label {
+  color: white;
+  padding-bottom: 2px;
+}
+
+.form-input > select {
+  width: 150px;
+}
+
+.button-clear-input {
+  border-radius: 3px;
+  border-color: transparent;
+  cursor: pointer;
+  color: white;
+  background-color: orangered;
+}
+
+.button-clear-input:hover {
+  background-color: orange;
+}
+.button-clear-input:active {
+  background-color: orchid;
+  box-shadow: 0 5px #666;
+}
+
+.button-new-input {
+  border-radius: 3px;
+  border-color: transparent;
+  cursor: pointer;
+  color: white;
+  background-color: purple;
+}
+
+.button-new-input:hover {
+  background-color: plum;
+}
+
+.button-new-input:active {
+  background-color: orchid;
+  box-shadow: 0 5px #666;
+}
+
+.songForm {
+  display: flex;
+  justify-content: center;
+}
